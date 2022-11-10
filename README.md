@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karoob
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python
+- 👀 I’m interesting learning new things
+- 🌱 I’m currently learning how to create a website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adanalıkebapçı#7340
 only discord.
